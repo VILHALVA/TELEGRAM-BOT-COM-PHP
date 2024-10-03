@@ -32,7 +32,7 @@ Este bot do Telegram foi projetado para ser uma ferramenta simples e interativa 
    - Antes de executar, é necessário introduzir o token do seu bot no arquivo `./CODIGO/config.php`, na seção `COLOQUE_SEU_TOKEN_AQUI`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). 
 
 2. **Inicie o Bot:**
-   - Execute o bot do Telegram em PHP iniciando-o com o seguinte comando:
+   - Navegue até o diretório `./CODIGO`, e execute o bot do Telegram em PHP iniciando-o com o seguinte comando:
    ```bash
    php index.php
    ```
